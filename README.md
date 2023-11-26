@@ -44,3 +44,5 @@ Documentação em: (https://reactnative.dev/docs/vibration)
 **- Keiboard**  
 API que permite controlar eventos do teclado.  
 Documentação em: (https://reactnative.dev/docs/keyboard)
+
+Créditos: Curso Primeiros passos no React Native - One Bit Code

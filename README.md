@@ -30,4 +30,17 @@ Acessar a loja de aplicativos do Smartphone > pesquisar por Expo Go > Instalar
 - Abrir terminal via VSCODE
 - Executar via terminal o comando "npm install" para instalar as bibliotecas necessárias.
 - Iniciar o projeto como comando "npm start"
-- Abrir o aplicativo no Smartphone e ler o QRCode gerado no terminal  
+- Abrir o aplicativo no Smartphone e ler o QRCode gerado no terminal
+
+- # Apis Utilizadas:</br>
+**- Share**  
+API que permite o compartilhamento do conteúdo.  
+Documentação em: (https://reactnative.dev/docs/share)  
+
+**- Vibration**  
+API que permite vibrar o dispositivo.  
+Documentação em: (https://reactnative.dev/docs/vibration)
+
+**- Keiboard**  
+API que permite controlar eventos do teclado.  
+Documentação em: (https://reactnative.dev/docs/keyboard)

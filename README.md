@@ -10,17 +10,17 @@
 (https://www.unimedfortaleza.com.br/portaluploads/uploads/2017/08/tabela-imc-blog.jpg)
 
 # Requisitos para rodar o projeto:</br>
-- Node JS **
+**- Node JS**
   Ambiente de execução Javascript
   sudo apt install nodejs</br>
   node --version = 18.17.1</br>
 
-- Expo **
+**- Expo**
   Conjunto de ferramentas para ajudar no desenvolvimento de aplicativos iOS, Android e web, usando React Native a partir da mesma base de código JavaScript/TypeScript.  
   npm install --global expo-cli</br>
   expo --version = 6.10.3</br>
 
-- Expo Go **
+**- Expo Go**
 - Aplicativo que permite acompanhar aplicativo desenvolvido através do Expo CLI apenas lendo o QR Code gerado no browser ou no terminal.  
   Acessar a loja de aplicativos do Smartphone > pesquisar por Expo Go > Instalar
 
